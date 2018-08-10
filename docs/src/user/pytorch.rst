@@ -5,7 +5,7 @@ Simple example
 Installation and setup
 ======================
 
-Assume :doc:`/installing` and :doc:`/database` done.
+Assume :doc:`/install/core` and :doc:`/install/database` done.
 
 .. code-block:: bash
 
